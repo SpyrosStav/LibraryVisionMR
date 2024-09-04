@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: acb92c17bd5ac5b4cbcb9df0e748db64
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - X: {fileID: 7619737017493516421, guid: f68e061d108f199469e26c353a408e2c, type: 3}
+  - O: {fileID: 1107250837376915703, guid: 3322dbf62fea01546b2b21b76dc8acb4, type: 3}
+  - gameManager: {fileID: 3353511825169146079, guid: 593056610f036844fa788436187a3085,
+      type: 3}
+  - parentObject: {fileID: 1259696421078622668, guid: d31889db4f2838843bede77ac64c5f40,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

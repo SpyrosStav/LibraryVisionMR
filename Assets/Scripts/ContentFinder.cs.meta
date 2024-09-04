@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a2980b38ca2fe984fb30054fb34a6c29
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - slatePrefab: {fileID: 2565223630107040964, guid: f5ec6d203f6c596448f0839de05712c8,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35db80c1cd2b9324c880817dbd4a23bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TicTacToe: {fileID: 1259696421078622668, guid: d31889db4f2838843bede77ac64c5f40,
+      type: 3}
+  - DebugLog: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
