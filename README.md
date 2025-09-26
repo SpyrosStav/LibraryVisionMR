@@ -85,7 +85,8 @@ If the scene uses ASA, you will need an Azure Spatial Anchors account:
 - **UWP build issues**: Confirm Visual Studio workloads, correct architecture (ARM64 for HoloLens 2), and required capabilities.
 
 ### Screenshots
-![Demo Screenshot](./images/1.png)
-![Demo Screenshot](./images/2.png)
-![Demo Screenshot](./images/3.png)
-![Demo Screenshot](./images/4.png)
+![Demo Screenshot](./images/1.jpg)
+![Demo Screenshot](./images/2.jpg)
+![Demo Screenshot](./images/3.jpg)
+![Demo Screenshot](./images/4.jpg)
+
