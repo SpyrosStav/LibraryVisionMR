@@ -84,4 +84,8 @@ If the scene uses ASA, you will need an Azure Spatial Anchors account:
 - **Missing MRTK/ASA assets**: Ensure the `.tgz` files referenced in `Packages/MixedReality` are present; re‑import packages if needed.
 - **UWP build issues**: Confirm Visual Studio workloads, correct architecture (ARM64 for HoloLens 2), and required capabilities.
 
-
+### Screenshots
+![Demo Screenshot](./images/1.png)
+![Demo Screenshot](./images/2.png)
+![Demo Screenshot](./images/3.png)
+![Demo Screenshot](./images/4.png)
