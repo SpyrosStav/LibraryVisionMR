@@ -2,6 +2,9 @@
 
 Mixed Reality sample application built with Unity, Microsoft Mixed Reality Toolkit (MRTK), and Azure Spatial Anchors. The project targets Windows Mixed Reality/HoloLens and uses Unity 2019 LTS.
 
+
+[![Watch the demo](https://img.youtube.com/vi/kyfNb07vwUs/0.jpg)](https://youtu.be/kyfNb07vwUs)
+
 ### Tech stack
 
 - **Unity**: 2019.4.36f1
@@ -80,3 +83,4 @@ If the scene uses ASA, you will need an Azure Spatial Anchors account:
 - **Package or compile errors**: Reopen the project with Unity 2019.4.36f1 and verify `manifest.json` entries. Fix or remove any user‑specific `file:` paths.
 - **Missing MRTK/ASA assets**: Ensure the `.tgz` files referenced in `Packages/MixedReality` are present; re‑import packages if needed.
 - **UWP build issues**: Confirm Visual Studio workloads, correct architecture (ARM64 for HoloLens 2), and required capabilities.
+
